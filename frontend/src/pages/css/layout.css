@@ -1,0 +1,21 @@
+.layout{
+    
+}
+
+.layout_child{
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    min-height: 100vh;
+    position: relative;
+    background-color: #ffff;
+    /* border-radius: 3%; */
+    height: 100%;
+    padding: 2%;
+    
+}
+.child_info{
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
